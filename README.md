@@ -37,27 +37,27 @@ AWS EC2 : ec2-3-144-36-208.us-east-2.compute.amazonaws.com:8080/
 
 ![Annotation 2021-08-18 173818](https://user-images.githubusercontent.com/54542692/129899236-5086d0df-5254-47b8-9900-777cf422d504.png)
 
-ABOUT 
+ABOUT SECTION
 
 ![Annotation 2021-08-18 180828](https://user-images.githubusercontent.com/54542692/129899455-e15c03ee-03f9-424a-ada6-065bae355295.png)
 
-FORM
+User needs to fill this form to get forecast sales of items he/she mentions
 
 ![Annotation 2021-08-18 181005](https://user-images.githubusercontent.com/54542692/129899572-880dea21-2957-4fec-8e9a-ffdc5d2d3ce8.png)
 
-CLICKING SUBMIT WHEN ANY OF FIELD IS MISSING
+Each field should be filled
 
 ![Annotation 2021-08-18 181150](https://user-images.githubusercontent.com/54542692/129899948-4e94edf4-42fc-404a-889d-d9860891665d.png)
 
-AFTER CLICKING SUBMIT GETTING BACK PREDICTIONS
+After click submit button user gets the info passed along with forecasted sales
 
 ![Annotation 2021-08-18 181442](https://user-images.githubusercontent.com/54542692/129900255-bf33eebc-0277-4bfb-9b7c-64171e420885.png)
 
-USER QUERIES STORED IN NOSQL DATABASE
+Also user data is stored in Nosql Database for futher development
 
 ![Annotation 2021-08-18 182336](https://user-images.githubusercontent.com/54542692/129901549-50b82d6a-20e6-46cb-a6bf-f12619f81970.png)
 
-LOGGING INFORMATION OF THE TRAINING PIPELINE
+Logging done during training Pipeline
 
 ![Annotation 2021-08-18 182512](https://user-images.githubusercontent.com/54542692/129901725-35d7c7e4-26ce-41f9-b03f-d0c48640ad3b.png)
 
