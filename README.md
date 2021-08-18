@@ -53,11 +53,26 @@ AFTER CLICKING SUBMIT GETTING BACK PREDICTIONS
 
 ![Annotation 2021-08-18 181442](https://user-images.githubusercontent.com/54542692/129900255-bf33eebc-0277-4bfb-9b7c-64171e420885.png)
 
+USER QUERIES STORED IN NOSQL DATABASE
+
+![Annotation 2021-08-18 182336](https://user-images.githubusercontent.com/54542692/129901549-50b82d6a-20e6-46cb-a6bf-f12619f81970.png)
+
+LOGGING INFORMATION OF THE TRAINING PIPELINE
+
+![Annotation 2021-08-18 182512](https://user-images.githubusercontent.com/54542692/129901725-35d7c7e4-26ce-41f9-b03f-d0c48640ad3b.png)
 
 
 
 
 
 
-  
-## User Interface for Store Sales Predictio
+
+Tools used 
+- Pandas,Numpy,seaborn
+- Python
+- FLASK
+- Sklearn
+- logging
+- Cassandra NoSql Database
+- AWS
+- HEROKU
