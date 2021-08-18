@@ -45,6 +45,17 @@ FORM
 
 ![Annotation 2021-08-18 181005](https://user-images.githubusercontent.com/54542692/129899572-880dea21-2957-4fec-8e9a-ffdc5d2d3ce8.png)
 
+CLICKING SUBMIT WHEN ANY OF FIELD IS MISSING
+
+![Annotation 2021-08-18 181150](https://user-images.githubusercontent.com/54542692/129899948-4e94edf4-42fc-404a-889d-d9860891665d.png)
+
+AFTER CLICKING SUBMIT GETTING BACK PREDICTIONS
+
+![Annotation 2021-08-18 181442](https://user-images.githubusercontent.com/54542692/129900255-bf33eebc-0277-4bfb-9b7c-64171e420885.png)
+
+
+
+
 
 
 
