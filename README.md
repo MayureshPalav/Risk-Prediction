@@ -29,19 +29,24 @@ Heroku: food-preds.herokuapp.com
 
 AWS EC2 : ec2-3-144-36-208.us-east-2.compute.amazonaws.com:8080/
 
-```bash
-  npm run deploy
-```
+
 
   
 ## User interface for store sales prediction
 
+
+![Annotation 2021-08-18 173818](https://user-images.githubusercontent.com/54542692/129899236-5086d0df-5254-47b8-9900-777cf422d504.png)
+
+ABOUT 
+
+![Annotation 2021-08-18 180828](https://user-images.githubusercontent.com/54542692/129899455-e15c03ee-03f9-424a-ada6-065bae355295.png)
+
+FORM
+
+![Annotation 2021-08-18 181005](https://user-images.githubusercontent.com/54542692/129899572-880dea21-2957-4fec-8e9a-ffdc5d2d3ce8.png)
 
 
 
 
   
 ## User Interface for Store Sales Predictio
-
-
-![Alt text](W:\Sales_preds\screenshots\Annotation 2021-08-18 173818.png?raw=true "Optional Title")
